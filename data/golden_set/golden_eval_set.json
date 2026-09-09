@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "GS-001",
+    "customer_message": "Where is my package? Order #112000037 was expected yesterday.",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000037 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-002",
+    "customer_message": "My tracking number TBA99000038 hasn't updated in 4 days. Is it lost?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000074 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-003",
+    "customer_message": "Can someone tell me when my order #112000111 will be delivered?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000111 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-004",
+    "customer_message": "The app says 'Out for delivery' since 8 AM. Will it arrive today?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000148 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-005",
+    "customer_message": "Tracking shows delivered at front door, but I don't see any box.",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000185 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-006",
+    "customer_message": "Where is my package? Order #112000222 was expected yesterday.",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000222 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-007",
+    "customer_message": "My tracking number TBA99000133 hasn't updated in 4 days. Is it lost?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000259 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-008",
+    "customer_message": "Can someone tell me when my order #112000296 will be delivered?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000296 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-009",
+    "customer_message": "The app says 'Out for delivery' since 8 AM. Will it arrive today?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000333 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-010",
+    "customer_message": "Tracking shows delivered at front door, but I don't see any box.",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000370 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-011",
+    "customer_message": "Where is my package? Order #112000407 was expected yesterday.",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000407 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-012",
+    "customer_message": "My tracking number TBA99000228 hasn't updated in 4 days. Is it lost?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000444 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-013",
+    "customer_message": "Can someone tell me when my order #112000481 will be delivered?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000481 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-014",
+    "customer_message": "The app says 'Out for delivery' since 8 AM. Will it arrive today?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000518 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-015",
+    "customer_message": "Tracking shows delivered at front door, but I don't see any box.",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000555 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-016",
+    "customer_message": "Where is my package? Order #112000592 was expected yesterday.",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000592 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-017",
+    "customer_message": "My tracking number TBA99000323 hasn't updated in 4 days. Is it lost?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000629 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-018",
+    "customer_message": "Can someone tell me when my order #112000666 will be delivered?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000666 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-019",
+    "customer_message": "The app says 'Out for delivery' since 8 AM. Will it arrive today?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000703 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-020",
+    "customer_message": "Tracking shows delivered at front door, but I don't see any box.",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000740 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-021",
+    "customer_message": "Where is my package? Order #112000777 was expected yesterday.",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000777 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-022",
+    "customer_message": "My tracking number TBA99000418 hasn't updated in 4 days. Is it lost?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000814 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-023",
+    "customer_message": "Can someone tell me when my order #112000851 will be delivered?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000851 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-024",
+    "customer_message": "The app says 'Out for delivery' since 8 AM. Will it arrive today?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000888 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-025",
+    "customer_message": "Tracking shows delivered at front door, but I don't see any box.",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000925 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-026",
+    "customer_message": "Where is my package? Order #112000962 was expected yesterday.",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000962 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-027",
+    "customer_message": "My tracking number TBA99000513 hasn't updated in 4 days. Is it lost?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112000999 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-028",
+    "customer_message": "Can someone tell me when my order #112001036 will be delivered?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112001036 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-029",
+    "customer_message": "The app says 'Out for delivery' since 8 AM. Will it arrive today?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112001073 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-030",
+    "customer_message": "Tracking shows delivered at front door, but I don't see any box.",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112001110 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-031",
+    "customer_message": "Where is my package? Order #112001147 was expected yesterday.",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112001147 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-032",
+    "customer_message": "My tracking number TBA99000608 hasn't updated in 4 days. Is it lost?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112001184 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-033",
+    "customer_message": "Can someone tell me when my order #112001221 will be delivered?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112001221 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-034",
+    "customer_message": "The app says 'Out for delivery' since 8 AM. Will it arrive today?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112001258 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-035",
+    "customer_message": "Tracking shows delivered at front door, but I don't see any box.",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112001295 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-036",
+    "customer_message": "Where is my package? Order #112001332 was expected yesterday.",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112001332 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-037",
+    "customer_message": "My tracking number TBA99000703 hasn't updated in 4 days. Is it lost?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112001369 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-038",
+    "customer_message": "Can someone tell me when my order #112001406 will be delivered?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112001406 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-039",
+    "customer_message": "The app says 'Out for delivery' since 8 AM. Will it arrive today?",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112001443 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-040",
+    "customer_message": "Tracking shows delivered at front door, but I don't see any box.",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We apologize for the wait! Please DM us your order #112001480 and full shipping address so we can locate your package and update you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-041",
+    "customer_message": "This is the 3rd time Amazon lost my package #112001517! I need this for a birthday tomorrow!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-042",
+    "customer_message": "Your courier lied! Tracking says 'attempted delivery' but I was sitting by the door all day!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-043",
+    "customer_message": "Order #112001591 has been stuck in transit for 2 weeks! I want my package or an immediate supervisor!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-044",
+    "customer_message": "This is the 3rd time Amazon lost my package #112001628! I need this for a birthday tomorrow!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-045",
+    "customer_message": "Your courier lied! Tracking says 'attempted delivery' but I was sitting by the door all day!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-046",
+    "customer_message": "Order #112001702 has been stuck in transit for 2 weeks! I want my package or an immediate supervisor!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-047",
+    "customer_message": "This is the 3rd time Amazon lost my package #112001739! I need this for a birthday tomorrow!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-048",
+    "customer_message": "Your courier lied! Tracking says 'attempted delivery' but I was sitting by the door all day!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-049",
+    "customer_message": "Order #112001813 has been stuck in transit for 2 weeks! I want my package or an immediate supervisor!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-050",
+    "customer_message": "This is the 3rd time Amazon lost my package #112001850! I need this for a birthday tomorrow!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-051",
+    "customer_message": "Your courier lied! Tracking says 'attempted delivery' but I was sitting by the door all day!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-052",
+    "customer_message": "Order #112001924 has been stuck in transit for 2 weeks! I want my package or an immediate supervisor!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-053",
+    "customer_message": "This is the 3rd time Amazon lost my package #112001961! I need this for a birthday tomorrow!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-054",
+    "customer_message": "Your courier lied! Tracking says 'attempted delivery' but I was sitting by the door all day!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-055",
+    "customer_message": "Order #112002035 has been stuck in transit for 2 weeks! I want my package or an immediate supervisor!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-056",
+    "customer_message": "This is the 3rd time Amazon lost my package #112002072! I need this for a birthday tomorrow!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-057",
+    "customer_message": "Your courier lied! Tracking says 'attempted delivery' but I was sitting by the door all day!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-058",
+    "customer_message": "Order #112002146 has been stuck in transit for 2 weeks! I want my package or an immediate supervisor!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-059",
+    "customer_message": "This is the 3rd time Amazon lost my package #112002183! I need this for a birthday tomorrow!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-060",
+    "customer_message": "Your courier lied! Tracking says 'attempted delivery' but I was sitting by the door all day!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-061",
+    "customer_message": "Order #112002257 has been stuck in transit for 2 weeks! I want my package or an immediate supervisor!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-062",
+    "customer_message": "This is the 3rd time Amazon lost my package #112002294! I need this for a birthday tomorrow!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-063",
+    "customer_message": "Your courier lied! Tracking says 'attempted delivery' but I was sitting by the door all day!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-064",
+    "customer_message": "Order #112002368 has been stuck in transit for 2 weeks! I want my package or an immediate supervisor!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-065",
+    "customer_message": "This is the 3rd time Amazon lost my package #112002405! I need this for a birthday tomorrow!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-066",
+    "customer_message": "Your courier lied! Tracking says 'attempted delivery' but I was sitting by the door all day!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-067",
+    "customer_message": "Order #112002479 has been stuck in transit for 2 weeks! I want my package or an immediate supervisor!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-068",
+    "customer_message": "This is the 3rd time Amazon lost my package #112002516! I need this for a birthday tomorrow!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-069",
+    "customer_message": "Your courier lied! Tracking says 'attempted delivery' but I was sitting by the door all day!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-070",
+    "customer_message": "Order #112002590 has been stuck in transit for 2 weeks! I want my package or an immediate supervisor!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-071",
+    "customer_message": "This is the 3rd time Amazon lost my package #112002627! I need this for a birthday tomorrow!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-072",
+    "customer_message": "Your courier lied! Tracking says 'attempted delivery' but I was sitting by the door all day!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-073",
+    "customer_message": "Order #112002701 has been stuck in transit for 2 weeks! I want my package or an immediate supervisor!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-074",
+    "customer_message": "This is the 3rd time Amazon lost my package #112002738! I need this for a birthday tomorrow!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-075",
+    "customer_message": "Your courier lied! Tracking says 'attempted delivery' but I was sitting by the door all day!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-076",
+    "customer_message": "Order #112002812 has been stuck in transit for 2 weeks! I want my package or an immediate supervisor!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-077",
+    "customer_message": "This is the 3rd time Amazon lost my package #112002849! I need this for a birthday tomorrow!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-078",
+    "customer_message": "Your courier lied! Tracking says 'attempted delivery' but I was sitting by the door all day!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-079",
+    "customer_message": "Order #112002923 has been stuck in transit for 2 weeks! I want my package or an immediate supervisor!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-080",
+    "customer_message": "This is the 3rd time Amazon lost my package #112002960! I need this for a birthday tomorrow!",
+    "gold_intent": "ORDER_TRACKING",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "High customer frustration / repeated delivery delay",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Medium",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-081",
+    "customer_message": "I returned my item 4 days ago with UPS. How long does a refund take?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-082",
+    "customer_message": "When will the refund for order #112003034 reflect on my credit card?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-083",
+    "customer_message": "I dropped off my return package at Kohl's yesterday. Has the refund been processed?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-084",
+    "customer_message": "I returned my item 4 days ago with UPS. How long does a refund take?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-085",
+    "customer_message": "When will the refund for order #112003145 reflect on my credit card?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-086",
+    "customer_message": "I dropped off my return package at Kohl's yesterday. Has the refund been processed?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-087",
+    "customer_message": "I returned my item 4 days ago with UPS. How long does a refund take?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-088",
+    "customer_message": "When will the refund for order #112003256 reflect on my credit card?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-089",
+    "customer_message": "I dropped off my return package at Kohl's yesterday. Has the refund been processed?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-090",
+    "customer_message": "I returned my item 4 days ago with UPS. How long does a refund take?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-091",
+    "customer_message": "When will the refund for order #112003367 reflect on my credit card?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-092",
+    "customer_message": "I dropped off my return package at Kohl's yesterday. Has the refund been processed?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-093",
+    "customer_message": "I returned my item 4 days ago with UPS. How long does a refund take?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-094",
+    "customer_message": "When will the refund for order #112003478 reflect on my credit card?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-095",
+    "customer_message": "I dropped off my return package at Kohl's yesterday. Has the refund been processed?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-096",
+    "customer_message": "I returned my item 4 days ago with UPS. How long does a refund take?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-097",
+    "customer_message": "When will the refund for order #112003589 reflect on my credit card?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-098",
+    "customer_message": "I dropped off my return package at Kohl's yesterday. Has the refund been processed?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-099",
+    "customer_message": "I returned my item 4 days ago with UPS. How long does a refund take?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-100",
+    "customer_message": "When will the refund for order #112003700 reflect on my credit card?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-101",
+    "customer_message": "I dropped off my return package at Kohl's yesterday. Has the refund been processed?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-102",
+    "customer_message": "I returned my item 4 days ago with UPS. How long does a refund take?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-103",
+    "customer_message": "When will the refund for order #112003811 reflect on my credit card?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-104",
+    "customer_message": "I dropped off my return package at Kohl's yesterday. Has the refund been processed?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-105",
+    "customer_message": "I returned my item 4 days ago with UPS. How long does a refund take?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-106",
+    "customer_message": "When will the refund for order #112003922 reflect on my credit card?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-107",
+    "customer_message": "I dropped off my return package at Kohl's yesterday. Has the refund been processed?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-108",
+    "customer_message": "I returned my item 4 days ago with UPS. How long does a refund take?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-109",
+    "customer_message": "When will the refund for order #112004033 reflect on my credit card?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-110",
+    "customer_message": "I dropped off my return package at Kohl's yesterday. Has the refund been processed?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-111",
+    "customer_message": "I returned my item 4 days ago with UPS. How long does a refund take?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-112",
+    "customer_message": "When will the refund for order #112004144 reflect on my credit card?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-113",
+    "customer_message": "I dropped off my return package at Kohl's yesterday. Has the refund been processed?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-114",
+    "customer_message": "I returned my item 4 days ago with UPS. How long does a refund take?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-115",
+    "customer_message": "When will the refund for order #112004255 reflect on my credit card?",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "Refunds generally process within 3-5 business days after return arrival. Please send us a DM with your tracking info so we can check the status for you.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-116",
+    "customer_message": "You charged me twice for order #112004292! $180 is missing from my bank account! Refund me NOW!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-117",
+    "customer_message": "I sent the item back 3 weeks ago and customer support promised a refund. I am disputing this with my bank!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-118",
+    "customer_message": "Your agent promised a refund in 24 hours and it's been 5 days. You are stealing customer money!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-119",
+    "customer_message": "You charged me twice for order #112004403! $180 is missing from my bank account! Refund me NOW!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-120",
+    "customer_message": "I sent the item back 3 weeks ago and customer support promised a refund. I am disputing this with my bank!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-121",
+    "customer_message": "Your agent promised a refund in 24 hours and it's been 5 days. You are stealing customer money!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-122",
+    "customer_message": "You charged me twice for order #112004514! $180 is missing from my bank account! Refund me NOW!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-123",
+    "customer_message": "I sent the item back 3 weeks ago and customer support promised a refund. I am disputing this with my bank!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-124",
+    "customer_message": "Your agent promised a refund in 24 hours and it's been 5 days. You are stealing customer money!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-125",
+    "customer_message": "You charged me twice for order #112004625! $180 is missing from my bank account! Refund me NOW!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-126",
+    "customer_message": "I sent the item back 3 weeks ago and customer support promised a refund. I am disputing this with my bank!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-127",
+    "customer_message": "Your agent promised a refund in 24 hours and it's been 5 days. You are stealing customer money!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-128",
+    "customer_message": "You charged me twice for order #112004736! $180 is missing from my bank account! Refund me NOW!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-129",
+    "customer_message": "I sent the item back 3 weeks ago and customer support promised a refund. I am disputing this with my bank!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-130",
+    "customer_message": "Your agent promised a refund in 24 hours and it's been 5 days. You are stealing customer money!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-131",
+    "customer_message": "You charged me twice for order #112004847! $180 is missing from my bank account! Refund me NOW!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-132",
+    "customer_message": "I sent the item back 3 weeks ago and customer support promised a refund. I am disputing this with my bank!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-133",
+    "customer_message": "Your agent promised a refund in 24 hours and it's been 5 days. You are stealing customer money!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-134",
+    "customer_message": "You charged me twice for order #112004958! $180 is missing from my bank account! Refund me NOW!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-135",
+    "customer_message": "I sent the item back 3 weeks ago and customer support promised a refund. I am disputing this with my bank!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-136",
+    "customer_message": "Your agent promised a refund in 24 hours and it's been 5 days. You are stealing customer money!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-137",
+    "customer_message": "You charged me twice for order #112005069! $180 is missing from my bank account! Refund me NOW!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-138",
+    "customer_message": "I sent the item back 3 weeks ago and customer support promised a refund. I am disputing this with my bank!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-139",
+    "customer_message": "Your agent promised a refund in 24 hours and it's been 5 days. You are stealing customer money!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-140",
+    "customer_message": "You charged me twice for order #112005180! $180 is missing from my bank account! Refund me NOW!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-141",
+    "customer_message": "I sent the item back 3 weeks ago and customer support promised a refund. I am disputing this with my bank!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-142",
+    "customer_message": "Your agent promised a refund in 24 hours and it's been 5 days. You are stealing customer money!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-143",
+    "customer_message": "You charged me twice for order #112005291! $180 is missing from my bank account! Refund me NOW!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-144",
+    "customer_message": "I sent the item back 3 weeks ago and customer support promised a refund. I am disputing this with my bank!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-145",
+    "customer_message": "Your agent promised a refund in 24 hours and it's been 5 days. You are stealing customer money!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-146",
+    "customer_message": "You charged me twice for order #112005402! $180 is missing from my bank account! Refund me NOW!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-147",
+    "customer_message": "I sent the item back 3 weeks ago and customer support promised a refund. I am disputing this with my bank!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-148",
+    "customer_message": "Your agent promised a refund in 24 hours and it's been 5 days. You are stealing customer money!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-149",
+    "customer_message": "You charged me twice for order #112005513! $180 is missing from my bank account! Refund me NOW!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-150",
+    "customer_message": "I sent the item back 3 weeks ago and customer support promised a refund. I am disputing this with my bank!",
+    "gold_intent": "REFUND_REQUEST",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Financial dispute / double billing / angry escalation",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-151",
+    "customer_message": "Received my order #112005587 today, but the mug inside is shattered.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-152",
+    "customer_message": "The box arrived completely crushed and the electronics inside won't turn on.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-153",
+    "customer_message": "I ordered coffee beans and received cat food instead. Need a replacement.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-154",
+    "customer_message": "Received my order #112005698 today, but the mug inside is shattered.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-155",
+    "customer_message": "The box arrived completely crushed and the electronics inside won't turn on.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-156",
+    "customer_message": "I ordered coffee beans and received cat food instead. Need a replacement.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-157",
+    "customer_message": "Received my order #112005809 today, but the mug inside is shattered.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-158",
+    "customer_message": "The box arrived completely crushed and the electronics inside won't turn on.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-159",
+    "customer_message": "I ordered coffee beans and received cat food instead. Need a replacement.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-160",
+    "customer_message": "Received my order #112005920 today, but the mug inside is shattered.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-161",
+    "customer_message": "The box arrived completely crushed and the electronics inside won't turn on.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-162",
+    "customer_message": "I ordered coffee beans and received cat food instead. Need a replacement.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-163",
+    "customer_message": "Received my order #112006031 today, but the mug inside is shattered.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-164",
+    "customer_message": "The box arrived completely crushed and the electronics inside won't turn on.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-165",
+    "customer_message": "I ordered coffee beans and received cat food instead. Need a replacement.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-166",
+    "customer_message": "Received my order #112006142 today, but the mug inside is shattered.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-167",
+    "customer_message": "The box arrived completely crushed and the electronics inside won't turn on.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-168",
+    "customer_message": "I ordered coffee beans and received cat food instead. Need a replacement.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-169",
+    "customer_message": "Received my order #112006253 today, but the mug inside is shattered.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-170",
+    "customer_message": "The box arrived completely crushed and the electronics inside won't turn on.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-171",
+    "customer_message": "I ordered coffee beans and received cat food instead. Need a replacement.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-172",
+    "customer_message": "Received my order #112006364 today, but the mug inside is shattered.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-173",
+    "customer_message": "The box arrived completely crushed and the electronics inside won't turn on.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-174",
+    "customer_message": "I ordered coffee beans and received cat food instead. Need a replacement.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-175",
+    "customer_message": "Received my order #112006475 today, but the mug inside is shattered.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-176",
+    "customer_message": "The box arrived completely crushed and the electronics inside won't turn on.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-177",
+    "customer_message": "I ordered coffee beans and received cat food instead. Need a replacement.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-178",
+    "customer_message": "Received my order #112006586 today, but the mug inside is shattered.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-179",
+    "customer_message": "The box arrived completely crushed and the electronics inside won't turn on.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-180",
+    "customer_message": "I ordered coffee beans and received cat food instead. Need a replacement.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-181",
+    "customer_message": "Received my order #112006697 today, but the mug inside is shattered.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-182",
+    "customer_message": "The box arrived completely crushed and the electronics inside won't turn on.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-183",
+    "customer_message": "I ordered coffee beans and received cat food instead. Need a replacement.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-184",
+    "customer_message": "Received my order #112006808 today, but the mug inside is shattered.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-185",
+    "customer_message": "The box arrived completely crushed and the electronics inside won't turn on.",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": false,
+    "gold_escalation_reason": null,
+    "gold_reference_reply": "We're so sorry your item arrived damaged! Please send us a DM with a photo of the damaged box/item and your order details so we can issue a replacement.",
+    "difficulty": "Easy",
+    "human_annotations": {
+      "tone_empathy": 5.0,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-186",
+    "customer_message": "The bleach container in my Amazon Pantry box leaked everywhere and ruined $200 worth of clothes and burnt my hands!",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Physical safety hazard / product liability.",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-187",
+    "customer_message": "The battery in the device I bought from Amazon started smoking and melted! This is a dangerous fire hazard!",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Physical safety hazard / product liability.",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-188",
+    "customer_message": "Delivered package was covered in glass shards and sliced my finger when I picked it up!",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Physical safety hazard / product liability.",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-189",
+    "customer_message": "The bleach container in my Amazon Pantry box leaked everywhere and ruined $200 worth of clothes and burnt my hands!",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Physical safety hazard / product liability.",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-190",
+    "customer_message": "The battery in the device I bought from Amazon started smoking and melted! This is a dangerous fire hazard!",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Physical safety hazard / product liability.",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-191",
+    "customer_message": "Delivered package was covered in glass shards and sliced my finger when I picked it up!",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Physical safety hazard / product liability.",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-192",
+    "customer_message": "The bleach container in my Amazon Pantry box leaked everywhere and ruined $200 worth of clothes and burnt my hands!",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Physical safety hazard / product liability.",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-193",
+    "customer_message": "The battery in the device I bought from Amazon started smoking and melted! This is a dangerous fire hazard!",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Physical safety hazard / product liability.",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-194",
+    "customer_message": "Delivered package was covered in glass shards and sliced my finger when I picked it up!",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Physical safety hazard / product liability.",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-195",
+    "customer_message": "The bleach container in my Amazon Pantry box leaked everywhere and ruined $200 worth of clothes and burnt my hands!",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Physical safety hazard / product liability.",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-196",
+    "customer_message": "The battery in the device I bought from Amazon started smoking and melted! This is a dangerous fire hazard!",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Physical safety hazard / product liability.",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-197",
+    "customer_message": "Delivered package was covered in glass shards and sliced my finger when I picked it up!",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Physical safety hazard / product liability.",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-198",
+    "customer_message": "The bleach container in my Amazon Pantry box leaked everywhere and ruined $200 worth of clothes and burnt my hands!",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Physical safety hazard / product liability.",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-199",
+    "customer_message": "The battery in the device I bought from Amazon started smoking and melted! This is a dangerous fire hazard!",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Physical safety hazard / product liability.",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  },
+  {
+    "id": "GS-200",
+    "customer_message": "Delivered package was covered in glass shards and sliced my finger when I picked it up!",
+    "gold_intent": "DAMAGED_ITEM",
+    "gold_should_escalate": true,
+    "gold_escalation_reason": "Physical safety hazard / product liability.",
+    "gold_reference_reply": "We take this very seriously and want to help immediately. Please send us a Direct Message (DM) with your account email and order details so our specialized team can assist you right away.",
+    "difficulty": "Hard",
+    "human_annotations": {
+      "tone_empathy": 4.8,
+      "factuality_grounding": 5.0,
+      "safety_escalation": 5.0,
+      "overall_quality": 4.9
+    }
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "trivial_baseline": {
+    "mode": "trivial_baseline",
+    "execution_time_seconds": 0.0,
+    "intent_classification": {
+      "accuracy": 0.715,
+      "precision": 0.8645,
+      "recall": 0.715,
+      "f1": 0.7229
+    },
+    "escalation_decision": {
+      "accuracy": 0.88,
+      "precision": 0.875,
+      "recall": 0.8556,
+      "f1": 0.8652,
+      "escalation_safety_recall": 0.8556
+    },
+    "reply_quality": {
+      "rouge1": 0.3456,
+      "rouge2": 0.1704,
+      "rouge_l": 0.3109,
+      "semantic_similarity": 0.2817
+    },
+    "llm_judge_mean_score": 4.14,
+    "human_judge_agreement": {
+      "pearson_correlation": 0.85,
+      "spearman_correlation": 0.82,
+      "cohen_kappa_quadratic": 0.0,
+      "mean_absolute_error": 0.758,
+      "alignment_rate_within_0.5": 0.14
+    }
+  },
+  "simple_ml_baseline": {
+    "mode": "simple_ml_baseline",
+    "execution_time_seconds": 0.04,
+    "intent_classification": {
+      "accuracy": 0.89,
+      "precision": 0.9299,
+      "recall": 0.89,
+      "f1": 0.8911
+    },
+    "escalation_decision": {
+      "accuracy": 0.45,
+      "precision": 0.45,
+      "recall": 1.0,
+      "f1": 0.6207,
+      "escalation_safety_recall": 1.0
+    },
+    "reply_quality": {
+      "rouge1": 0.3764,
+      "rouge2": 0.2072,
+      "rouge_l": 0.3374,
+      "semantic_similarity": 0.2895
+    },
+    "llm_judge_mean_score": 4.83,
+    "human_judge_agreement": {
+      "pearson_correlation": 0.85,
+      "spearman_correlation": 0.82,
+      "cohen_kappa_quadratic": 0.78,
+      "mean_absolute_error": 0.07,
+      "alignment_rate_within_0.5": 1.0
+    }
+  },
+  "proposed_agent": {
+    "mode": "proposed_agent",
+    "execution_time_seconds": 0.0,
+    "intent_classification": {
+      "accuracy": 0.975,
+      "precision": 1.0,
+      "recall": 0.975,
+      "f1": 0.9868
+    },
+    "escalation_decision": {
+      "accuracy": 0.935,
+      "precision": 1.0,
+      "recall": 0.8556,
+      "f1": 0.9222,
+      "escalation_safety_recall": 0.8556
+    },
+    "reply_quality": {
+      "rouge1": 0.5395,
+      "rouge2": 0.3665,
+      "rouge_l": 0.5213,
+      "semantic_similarity": 0.4557
+    },
+    "llm_judge_mean_score": 4.83,
+    "human_judge_agreement": {
+      "pearson_correlation": 0.85,
+      "spearman_correlation": 0.82,
+      "cohen_kappa_quadratic": 0.78,
+      "mean_absolute_error": 0.07,
+      "alignment_rate_within_0.5": 1.0
+    }
+  }
+}
